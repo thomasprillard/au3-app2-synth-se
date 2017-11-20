@@ -1,4 +1,5 @@
 # au3-app2-synth-se
-feuille de synthèse pour l'analyse des système de premier et second ordres
+feuille de synthèse pour l'analyse des systhèse de premier et second ordres
 
-bonjour
+$$wn = 1/\tau$$
+
